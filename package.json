@@ -1,0 +1,26 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "Some test",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazzeddine/AzzeddineBOT.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Azzeddine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazzeddine/AzzeddineBOT/issues"
+  },
+  "homepage": "https://github.com/mazzeddine/AzzeddineBOT#readme",
+  "dependencies": {
+    "botbuilder": "^4.2.1",
+    "restify": "^7.7.0"
+  }
+}

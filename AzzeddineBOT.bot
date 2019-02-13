@@ -1,0 +1,18 @@
+{
+    "name": "AzzeddineBOT",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "3bf75196-3d63-4dec-8aa6-46f57d398747",
+            "appPassword": "atdreE}]!!oxVGDLVU88283",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "12631890-2fae-11e9-a3df-23c174d61270",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Program Files\\Git\\InsumBot\\AzzeddineBOT\\AzzeddineBOT.bot"
+}
